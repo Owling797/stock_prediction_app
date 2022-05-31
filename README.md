@@ -1,5 +1,5 @@
-# Stock_prediction_app
-A small project as part of the technopark program
+# Stock prediction app
+A small project as a part of the technopark program
 
 ## What is it
 This is a prototype of an educational tool for novice investors.
